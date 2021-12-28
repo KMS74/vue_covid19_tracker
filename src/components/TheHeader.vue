@@ -17,5 +17,3 @@ export default {
   name: "TheHeader",
 };
 </script>
-
-<style></style>
