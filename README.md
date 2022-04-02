@@ -1,5 +1,5 @@
 # vue_covid19_tracker
-
+Live version https://covid-19tracker-vue-app.netlify.app/
 ## Project setup
 ```
 npm install
